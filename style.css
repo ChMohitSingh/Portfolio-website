@@ -200,8 +200,8 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
-	background-size: cover;
+	background-image: url(./img/t\ shirt\ 1.jpeg);
+	background-size: 1200px 1400px;
 	background-position: top center;
 	position: relative;
 	z-index: 1;
